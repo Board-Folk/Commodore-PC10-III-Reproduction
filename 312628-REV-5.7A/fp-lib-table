@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "CBM-PC10")(type "KiCad")(uri "${KIPRJMOD}/CBM-PC10.pretty")(options "")(descr ""))
+)
