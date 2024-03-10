@@ -18685,7 +18685,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CBM-PC10:PAD101"
+		(property "Footprint" "CBM-PC10:PAD204"
 			(at 304.8 370.205 0)
 			(effects
 				(font
