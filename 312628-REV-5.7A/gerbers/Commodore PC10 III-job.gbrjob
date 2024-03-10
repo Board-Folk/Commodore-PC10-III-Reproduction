@@ -3,15 +3,15 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "7.0.6"
+      "Version": "8.0.0"
     },
-    "CreationDate": "2023-07-20T11:36:44+01:00"
+    "CreationDate": "2024-03-10T15:29:53+00:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "Commodore PC10 III",
       "GUID": "436f6d6d-6f64-46f7-9265-205043313020",
-      "Revision": "rev?"
+      "Revision": "1.0"
     },
     "Size": {
       "X": 323.57,
@@ -24,8 +24,8 @@
   "DesignRules": [
     {
       "Layers": "Outer",
-      "PadToPad": 0.0,
-      "PadToTrack": 0.0,
+      "PadToPad": 0.2,
+      "PadToTrack": 0.2,
       "TrackToTrack": 0.2,
       "MinLineWidth": 0.25,
       "TrackToRegion": 0.3,
