@@ -16,6 +16,8 @@ board's copper layers, so should be a reasonably accurate reproduction.
 
 [**Interactive BOM**][IBOM6c]
 
+The original board had some bodge wires and resistors on the board. The Reproduction board has this built in.
+
 ## PCB Production
 
 Minimum track widths, clearances and via sizes are within the standard
