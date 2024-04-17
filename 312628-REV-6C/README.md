@@ -7,6 +7,8 @@ board's copper layers, so should be a reasonably accurate reproduction.
 
 The original board had some bodge wires and resistors. This Reproduction has them built in.
 
+New 6c Schematics from this process have been made here.
+
 ![PCB](../images/PC10-REV6a-large.png)
 
 ## PCB Production
