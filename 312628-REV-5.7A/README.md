@@ -5,6 +5,8 @@ This recreation is based on the available schematics for the
 Commodore PC10-III and reverse engineering using scanned images of the original
 board's copper layers, so should be a reasonably accurate reproduction.
 
+![PCB](../images/PC10-REV5-7a-large.png)
+
 [**Interactive BOM**][IBOM5.7a]
 
 ## PCB Production
