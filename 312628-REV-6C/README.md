@@ -1,8 +1,8 @@
 # Commodore-PC10-III PCB Reproduction 312628-REV-6C
 
-This repository contains a recreation of the main board PCB for Commodore PC10-III 312628 Revisions 5.7A.
+This repository contains a recreation of the main board PCB for Commodore PC10-III 312628 Revisions 6c.
 This recreation is based on the available schematics for the
-Commodore PC10-III and reverse engineering using scanned images of the original
+Commodore PC10-III 5.7a (No 6c schematics available) and reverse engineering using scanned images of the original 6c
 board's copper layers, so should be a reasonably accurate reproduction.
 
 The original board had some bodge wires and resistors. This Reproduction has them built in.
