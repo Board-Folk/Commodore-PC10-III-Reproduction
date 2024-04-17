@@ -7,6 +7,8 @@ board's copper layers, so should be a reasonably accurate reproduction.
 
 The original board had some bodge wires and resistors on the board. The Reproduction board has this built in.
 
+![PCB](../images/PC10-REV6a-large.png)
+
 [**Interactive BOM**][IBOM6c]
 
 ## PCB Production
