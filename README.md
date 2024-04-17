@@ -14,7 +14,7 @@ board's copper layers, so should be a reasonably accurate reproduction.
 
 ### 312628 Rev 6c
 
-The original board had some bodge wires and resistors on the board. The Reproduction board has this built in.
+The original board had some bodge wires and resistors. This Reproduction has them built in.
 
 [**Interactive BOM**][IBOM6c]
 
