@@ -9,8 +9,6 @@ The original board had some bodge wires and resistors. This Reproduction has the
 
 ![PCB](../images/PC10-REV6a-large.png)
 
-[**Interactive BOM**][IBOM6c]
-
 ## PCB Production
 
 Minimum track widths, clearances and via sizes are within the standard
@@ -26,6 +24,8 @@ ENIG is recommended, but HASL will work also.
 Most parts are marked on the board and it is expected that these will be reused
 from a donor board. It is completely possible that your particular board uses
 different (but compatible) parts so it's advisable to take photos before starting.
+
+[**Interactive BOM**][IBOM6c]
 
 ## Thanks
 
