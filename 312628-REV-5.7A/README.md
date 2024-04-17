@@ -24,7 +24,6 @@ ENIG is recommended, but HASL will work also.
 Most parts are marked on the board and it is expected that these will be reused
 from a donor board. It is completely possible that your particular board uses
 different (but compatible) parts so it's advisable to take photos before starting.
-For a complete BOM, consult the link to the google spreadsheet.
 
 ## Thanks
 
