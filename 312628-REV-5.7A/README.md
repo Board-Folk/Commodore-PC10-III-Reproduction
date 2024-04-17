@@ -7,8 +7,6 @@ board's copper layers, so should be a reasonably accurate reproduction.
 
 ![PCB](../images/PC10-REV5-7a-large.png)
 
-[**Interactive BOM**][IBOM5.7a]
-
 ## PCB Production
 
 Minimum track widths, clearances and via sizes are within the standard
@@ -24,6 +22,8 @@ ENIG is recommended, but HASL will work also.
 Most parts are marked on the board and it is expected that these will be reused
 from a donor board. It is completely possible that your particular board uses
 different (but compatible) parts so it's advisable to take photos before starting.
+
+[**Interactive BOM**][IBOM5.7a]
 
 ## Thanks
 
