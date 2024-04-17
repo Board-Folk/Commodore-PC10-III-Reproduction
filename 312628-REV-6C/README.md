@@ -5,6 +5,8 @@ This recreation is based on the available schematics for the
 Commodore PC10-III and reverse engineering using scanned images of the original
 board's copper layers, so should be a reasonably accurate reproduction.
 
+The original board had some bodge wires and resistors on the board. The Reproduction board has this built in.
+
 [**Interactive BOM**][IBOM6c]
 
 ## PCB Production
