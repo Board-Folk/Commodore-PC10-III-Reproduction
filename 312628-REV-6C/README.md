@@ -62,4 +62,4 @@ and/or resources of this project.
 The resources are provided "as-is" without warranty of any kind, either
 expressed or implied, including, but not limited to, the implied warranties
 
-[IBOM6c]: http://htmlpreview.github.io/?https://raw.githubusercontent.com/Board-Folk/Commodore-PC10-III-Reproduction/main/312628-REV-6c/bom/Interactive_BOM.html
+[IBOM6c]: http://htmlpreview.github.io/?https://raw.githubusercontent.com/Board-Folk/Commodore-PC10-III-Reproduction/main/312628-REV-6C/bom/Interactive_BOM.html
