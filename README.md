@@ -11,12 +11,15 @@ board's copper layers, so should be a reasonably accurate reproduction.
 
 [**Interactive BOM**][IBOM5.7a]
 
+<a href="https://www.pcbway.com/project/shareproject/Commodore_PC10_III_PCB_Reproduction_312628_REV_5_7A_1089b872.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
 
 ### 312628 Rev 6c
 
 The original board had some bodge wires and resistors. This Reproduction has them built in.
 
 [**Interactive BOM**][IBOM6c]
+
+<a href="https://www.pcbway.com/project/shareproject/Commodore_PC10_III_PCB_Reproduction_312628_REV_6C_0c033383.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
 
 ## PCB Production
 
