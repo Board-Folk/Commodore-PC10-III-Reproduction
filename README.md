@@ -11,7 +11,6 @@ board's copper layers, so should be a reasonably accurate reproduction.
 
 [**Interactive BOM**][IBOM5.7a]
 
-<a href="https://www.pcbway.com/project/shareproject/Commodore_PC10_III_PCB_Reproduction_312628_REV_5_7A_1089b872.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
 
 ### 312628 Rev 6c
 
@@ -19,17 +18,24 @@ The original board had some bodge wires and resistors. This Reproduction has the
 
 [**Interactive BOM**][IBOM6c]
 
-<a href="https://www.pcbway.com/project/shareproject/Commodore_PC10_III_PCB_Reproduction_312628_REV_6C_0c033383.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
-
 ## PCB Production
 
 Minimum track widths, clearances and via sizes are within the standard
 offering of modern PCB fabricators. Gerber files are provided to the 
-specification of JLCPCB, but should also work with PCBWay.
+specification of JLCPCB, but should also work with PCBWay see below links to shared products.
 
 The design is verified to work as a 2-layer PCB.
 
 ENIG is recommended, but HASL will work also.
+
+#### 312628 Rev 5.7a
+
+<a href="https://www.pcbway.com/project/shareproject/Commodore_PC10_III_PCB_Reproduction_312628_REV_5_7A_1089b872.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
+
+#### 312628 Rev 6c
+
+<a href="https://www.pcbway.com/project/shareproject/Commodore_PC10_III_PCB_Reproduction_312628_REV_6C_0c033383.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
+
 
 ## Bill of Materials
 
