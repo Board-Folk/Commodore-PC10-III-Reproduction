@@ -77,4 +77,4 @@ expressed or implied, including, but not limited to, the implied warranties
 of merchantability and fitness for a particular purpose.
 
 [IBOM5.7a]: http://htmlpreview.github.io/?https://raw.githubusercontent.com/Board-Folk/Commodore-PC10-III-Reproduction/main/312628-REV-5.7A/bom/Interactive_BOM.html
-[IBOM6c]: http://htmlpreview.github.io/?https://raw.githubusercontent.com/Board-Folk/Commodore-PC10-III-Reproduction/main/312628-REV-6c/bom/Interactive_BOM.html
+[IBOM6c]: http://htmlpreview.github.io/?https://raw.githubusercontent.com/Board-Folk/Commodore-PC10-III-Reproduction/main/312628-REV-6C/bom/Interactive_BOM.html
