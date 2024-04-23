@@ -15,11 +15,13 @@ New 6c Schematics from this process have been made here.
 
 Minimum track widths, clearances and via sizes are within the standard
 offering of modern PCB fabricators. Gerber files are provided to the 
-specification of JLCPCB, but should also work with PCBWay.
+specification of JLCPCB, but should also work with PCBWay see below link on shared projects.
 
 The design is verified to work as a 2-layer PCB.
 
 ENIG is recommended, but HASL will work also.
+
+<a href="https://www.pcbway.com/project/shareproject/Commodore_PC10_III_PCB_Reproduction_312628_REV_6C_0c033383.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
 
 ## Bill of Materials
 
