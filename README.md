@@ -11,10 +11,11 @@ board's copper layers, so should be a reasonably accurate reproduction.
 
 [**Interactive BOM**][IBOM5.7a]
 
-
 ### 312628 Rev 6c
 
-The original board had some bodge wires and resistors. This Reproduction has them built in.
+* JMP690 & D690 - External Rechargable Battery Connection. Diode is for overcharging protection to a Lithium battery. Search Amazon for a lithium rechargeable battery 3.7v 2 pin header. The External connector Pin 1 GND, Pin 2 +5v (next to the diode)
+
+* The original board had some bodge wires and resistors. This Reproduction has them built in.
 
 [**Interactive BOM**][IBOM6c]
 
