@@ -13,9 +13,9 @@ New 6c Schematics from this process have been made here.
 
 ## Additional Notes
 
-* JMP690 & D690 - External Rechargable Battery Connection. Diode is for charging over protection to a Lithium. Search Amazon for a lithium rechargeable battery 3.7v 2 pin header. The External connector Pin 1 GND, Pin 2 +5v (next to the diode)
+* JMP690 & D690 - External Rechargable Battery Connection. Diode is for overcharging protection to a Lithium battery. Search Amazon for a lithium rechargeable battery 3.7v 2 pin header. The External connector Pin 1 GND, Pin 2 +5v (next to the diode)
 
-* PVC4 / IOReady has been included in the board
+* The original board had some bodge wires and resistors. This Reproduction has them built in.
 
 ## PCB Production
 
