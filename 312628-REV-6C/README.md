@@ -29,6 +29,12 @@ ENIG is recommended, but HASL will work also.
 
 <a href="https://www.pcbway.com/project/shareproject/Commodore_PC10_III_PCB_Reproduction_312628_REV_6C_0c033383.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
 
+Do not add Assembly with your PCB Manufacture and expect this project to have a BOM list to a component supplier such as Mouser, because it will not.
+
+If you want to use Assembly you will need to supply your own BOM List and Centroid file.
+
+Do not Ask here for one as part supply changes all the time.
+
 ## Bill of Materials
 
 Most parts are marked on the board and it is expected that these will be reused
