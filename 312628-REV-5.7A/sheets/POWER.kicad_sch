@@ -16307,7 +16307,7 @@
 		(fields_autoplaced yes)
 		(uuid "94df5ffd-4b6f-46f8-8a9b-3d30abfec460")
 		(property "Reference" "R504"
-			(at 212.09 34.925 0)
+			(at 212.09 34.2899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16315,8 +16315,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10K"
-			(at 212.09 37.465 0)
+		(property "Value" "1K"
+			(at 212.09 36.8299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
