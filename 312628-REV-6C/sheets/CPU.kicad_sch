@@ -20030,7 +20030,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "100pF (101)"
 			(at 400.05 186.055 0)
 			(effects
 				(font
@@ -20101,7 +20101,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "100pF (101)"
 			(at 381 188.595 0)
 			(effects
 				(font
@@ -25772,7 +25772,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "100pF (101)"
 			(at 332.74 225.425 0)
 			(effects
 				(font
@@ -27444,7 +27444,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "100pF (101)"
 			(at 494.03 191.135 0)
 			(effects
 				(font
@@ -27646,7 +27646,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "100pF (101)"
 			(at 311.15 220.345 0)
 			(effects
 				(font

@@ -23517,7 +23517,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "100pF (101)"
 			(at 499.11 236.855 0)
 			(effects
 				(font
@@ -24909,7 +24909,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "100pF (101)"
 			(at 486.41 234.315 0)
 			(effects
 				(font
@@ -26290,7 +26290,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" " ~"
+		(property "Datasheet" "~"
 			(at 376.555 67.31 0)
 			(effects
 				(font
@@ -28228,7 +28228,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "100pF (101)"
 			(at 431.8 193.675 0)
 			(effects
 				(font
@@ -28836,7 +28836,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "100pF (101)"
 			(at 473.71 231.775 0)
 			(effects
 				(font
@@ -30442,7 +30442,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "100pF (101)"
 			(at 511.81 239.395 0)
 			(effects
 				(font
@@ -30733,7 +30733,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" " ~"
+		(property "Datasheet" "~"
 			(at 450.85 195.58 0)
 			(effects
 				(font
@@ -31381,7 +31381,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "100pF (101)"
 			(at 473.71 265.43 0)
 			(effects
 				(font
@@ -31723,7 +31723,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "100pF (101)"
 			(at 486.41 267.97 0)
 			(effects
 				(font
@@ -32393,7 +32393,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "100pF (101)"
 			(at 499.11 270.51 0)
 			(effects
 				(font
@@ -33165,7 +33165,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" " ~"
+		(property "Datasheet" "~"
 			(at 546.1 259.08 0)
 			(effects
 				(font
@@ -33831,7 +33831,7 @@
 		(at 61.595 358.14 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "f2724538-cfad-4942-80fd-268bfbca5de7")

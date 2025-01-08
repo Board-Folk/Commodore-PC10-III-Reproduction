@@ -16337,7 +16337,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "100pF (101)"
 			(at 371.475 90.805 0)
 			(effects
 				(font
@@ -16595,7 +16595,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "100pF (101)"
 			(at 526.415 190.5 0)
 			(effects
 				(font
@@ -16667,7 +16667,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "100pF (101)"
 			(at 470.535 285.75 0)
 			(effects
 				(font
@@ -17598,7 +17598,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "100pF (101)"
 			(at 332.74 66.04 0)
 			(effects
 				(font
@@ -17670,7 +17670,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "100pF (101)"
 			(at 344.805 73.66 0)
 			(effects
 				(font
@@ -17807,7 +17807,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "100pF (101)"
 			(at 387.35 97.79 0)
 			(effects
 				(font
@@ -18233,7 +18233,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "100pF (101)"
 			(at 277.495 30.48 0)
 			(effects
 				(font
@@ -18576,7 +18576,7 @@
 		(at 113.665 64.77 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "463e7397-a316-4d07-ade3-574b9147076e")
@@ -18879,7 +18879,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "100pF (101)"
 			(at 423.545 327.66 0)
 			(effects
 				(font
@@ -19353,7 +19353,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "100pF (101)"
 			(at 316.23 54.61 0)
 			(effects
 				(font
@@ -19497,7 +19497,7 @@
 		(at 134.62 56.515 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -20295,7 +20295,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "100pF (101)"
 			(at 484.505 166.37 0)
 			(effects
 				(font
@@ -20367,7 +20367,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "100pF (101)"
 			(at 503.555 259.08 0)
 			(effects
 				(font
@@ -21050,7 +21050,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "100pF (101)"
 			(at 290.195 38.1 0)
 			(effects
 				(font
@@ -21140,7 +21140,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" " ~"
+		(property "Datasheet" "~"
 			(at 565.785 283.845 0)
 			(effects
 				(font
@@ -21530,7 +21530,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "100pF (101)"
 			(at 455.295 298.45 0)
 			(effects
 				(font
@@ -22250,7 +22250,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "100pF (101)"
 			(at 426.085 122.555 0)
 			(effects
 				(font
@@ -22846,7 +22846,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "100pF (101)"
 			(at 497.205 173.99 0)
 			(effects
 				(font
@@ -22983,7 +22983,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "100pF (101)"
 			(at 405.765 342.9 0)
 			(effects
 				(font
@@ -23055,7 +23055,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "100pF (101)"
 			(at 471.805 158.75 0)
 			(effects
 				(font
@@ -23468,7 +23468,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "100pF (101)"
 			(at 516.255 246.38 0)
 			(effects
 				(font
@@ -23606,7 +23606,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "100pF (101)"
 			(at 441.325 313.69 0)
 			(effects
 				(font
@@ -23878,7 +23878,7 @@
 				)
 			)
 		)
-		(property "Value" "32.XXKHZ"
+		(property "Value" "32.768KHZ"
 			(at 90.805 62.23 0)
 			(effects
 				(font
@@ -24012,7 +24012,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "100pF (101)"
 			(at 412.115 113.665 0)
 			(effects
 				(font
@@ -24572,7 +24572,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "100pF (101)"
 			(at 511.175 182.88 0)
 			(effects
 				(font
@@ -24865,7 +24865,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "100pF (101)"
 			(at 399.415 105.41 0)
 			(effects
 				(font
@@ -25201,7 +25201,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "100pF (101)"
 			(at 302.26 45.72 0)
 			(effects
 				(font
@@ -25361,7 +25361,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" " ~"
+		(property "Datasheet" "~"
 			(at 564.515 121.285 0)
 			(effects
 				(font
@@ -25481,7 +25481,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "100pF (101)"
 			(at 357.505 81.915 0)
 			(effects
 				(font
@@ -25618,7 +25618,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "100pF (101)"
 			(at 487.045 271.78 0)
 			(effects
 				(font
